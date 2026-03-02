@@ -1,0 +1,10 @@
+Version             : 1.0.0
+Publish Date        : 3-March-2026
+Developer           : Navtej Singh
+Github              : https://github.com/Navtej-Singh-1503/
+Type                : Website DoS Tool
+Name                : Dark-Flux
+
+
+   !! MADE JUST FOR EDUCATION PURPOSES !!
+
