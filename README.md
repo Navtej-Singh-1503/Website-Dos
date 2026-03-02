@@ -59,8 +59,8 @@ python3 main.py
 
 ### Author
 
-Navtej Singh Saggar
-Cybersecurity Student & Developer
+- Navtej Singh Saggar
+- Cybersecurity Student & Developer
 
 Contact: navtejsingh15032011@gmail.com
 
